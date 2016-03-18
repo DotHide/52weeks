@@ -1,0 +1,28 @@
+{
+  "name": "node-52weeks",
+  "version": "1.0.0",
+  "description": "Learning 52 Node packaged modules in 52 weeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DotHide/node-52weeks.git"
+  },
+  "keywords": [
+    "52weeks",
+    "node",
+    "npm"
+  ],
+  "author": "Martin <dothide@gmail.com> (https://github.com/DotHide)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DotHide/node-52weeks/issues"
+  },
+  "homepage": "https://github.com/DotHide/node-52weeks#readme",
+  "devDependencies": {
+    "async": "1.5.2",
+    "present": "0.0.6"
+  }
+}
