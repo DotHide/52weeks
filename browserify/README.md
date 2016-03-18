@@ -1,5 +1,5 @@
 ## 52 周玩转 52 Node 包 丨 browserify
-🙊 [查看全部计划](../)
+🙊 [查看全部计划](https://github.com/DotHide/node-52weeks)
 
 **第 02 周（2016.03.14）** [browserify](https://www.npmjs.com/package/browserify) 篇
 

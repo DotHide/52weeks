@@ -1,5 +1,5 @@
 ## 52 周玩转 52 Node 包 丨 async
-🙊 [查看全部计划](../)
+🙊 [查看全部计划](https://github.com/DotHide/node-52weeks)
 
 **第 01 周（2016.03.07）** [async](https://www.npmjs.com/package/async) 篇
 
